@@ -1,8 +1,8 @@
 # jenkins.build.sh
 # COPY THIS TO JENKINS BUILD STEP
 
-IMG_NAME=''  # Give your Docker image a name
-CTNR_NAME='' # Give your Docker container a unique name
+IMG_NAME='kaskrex'  # Give your Docker image a name
+CTNR_NAME='kaskrex' # Give your Docker container a unique name
 HOSTING_URL='app.thepingofhealth.com'
 
 # System a random port between 9001-9999
